@@ -1,5 +1,6 @@
 from .home import bp as home
 from .dashboard import bp as dashboard
+from .api import bp as api
 
 # Personal note create namespaces for modules and files and all that, at least get into the habit when it becomes
 # useful
